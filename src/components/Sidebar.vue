@@ -67,9 +67,9 @@
                       </li>
   
                       <li class="nav-link">
-                          <router-link to="/notificacoes" class="button">
+                          <router-link to="/duvidas-frequentes" class="button">
                               <i class='bx bx-bell icon'></i>
-                              <span class="text nav-text">Notificações</span>
+                              <span class="text nav-text">Duvidas Frequentes</span>
                           </router-link>
                       </li>
   

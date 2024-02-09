@@ -32,8 +32,8 @@ const router = createRouter({
             component: () => import('../views/Imagens.vue')
         },
         {
-            path: '/notificacoes',
-            component: () => import('../views/Notificacoes.vue')
+            path: '/duvidas-frequentes',
+            component: () => import('../views/Duvidas-Frequentes.vue')
         },
         {
             path: '/configuracoes',

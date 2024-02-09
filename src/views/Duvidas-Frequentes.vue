@@ -4,12 +4,15 @@
         <summary>{{ question.title }}</summary>
         <p v-show="showDetail[question.number]">{{ question.answer }}</p>
       </details>
-      <h2>Guia de Acesso aos Programas de Subvenção: Paraná e Governo Federal</h2>
+      <br>
+      <br>
+      <h3>Guia de Acesso aos Programas de Subvenção: Paraná e Governo Federal</h3>
     <p>Para informações mais detalhadas, clique abaixo e acesse os sites específicos dos programas:</p>
     <ul>
         <li><a href="https://www.legisweb.com.br/legislacao/?id=257074">Governo Estadual do Paraná</a></li>
         <li><a href="https://www.gov.br/agricultura/pt-br/assuntos/riscos-seguro/seguro-rural/limites-percentuais-de-subvencao">Governo Federal</a></li>
-    </ul>
+        <li><a href="http://www.susep.gov.br/download/menubiblioteca/SegAgricCondGerais.pdf">SUSEP - Superintendência de Seguros Privados</a></li>
+      </ul>
     </div>
   </template>
   
