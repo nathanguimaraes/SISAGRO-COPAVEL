@@ -1,0 +1,14 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.text-fields {
+  color: #e01111;
+  }
+  
+  .text-fields-error {
+    border: 1px solid #e01111;
+   
+  }
+  
