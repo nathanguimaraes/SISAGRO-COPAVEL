@@ -179,8 +179,8 @@
                 </div>
                 
                 <div class="input-box">
-                  <label for="fasecultura" class="txt"><b>Tamanho do talhao:</b></label>
-                  <textarea id="tamanhoTalhao" name="fase_cultura" rows="4" cols="50" class="form-control" placeholder="Em qual fase a cultura se encontra" v-model="fasecultura"></textarea>
+                  <label for="tamanhoTalhao" class="txt"><b>Tamanho do talhao:</b></label>
+                  <textarea id="tamanhoTalhao" name="fase_cultura" rows="4" cols="50" class="form-control" placeholder="Tamanho do talhao" v-model="fasecultura"></textarea>
                 </div>
           
 
