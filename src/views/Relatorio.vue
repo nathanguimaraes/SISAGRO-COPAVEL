@@ -180,7 +180,7 @@
                 
                 <div class="input-box">
                   <label for="tamanhoTalhao" class="txt"><b>Tamanho do talhao:</b></label>
-                  <textarea id="tamanhoTalhao" name="fase_cultura" rows="4" cols="50" class="form-control" placeholder="Tamanho do talhao" v-model="fasecultura"></textarea>
+                  <textarea id="tamanhoTalhao" name="tamanho_talhao" rows="4" cols="50" class="form-control" placeholder="Tamanho do talhao" v-model="tamanhotalhao"></textarea>
                 </div>
           
 
